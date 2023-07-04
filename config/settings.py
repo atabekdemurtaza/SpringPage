@@ -24,7 +24,7 @@ SECRET_KEY = 'u%&mewy2r!=alh=1(zx*+f9s$61_70)2l&vbcjfk8*0cwzreu-'
 #DEBUG = env('DEBUG')
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost','127.0.0.1']
 
 
 # Application definition
